@@ -1,5 +1,5 @@
 # NANCY INTERSHIP
-[foto.jpg](https://postimg.cc/3dTpt5mM)
+[foto.jpg]([https://postimg.cc/3dTpt5mM](https://github.com/TanyaBazuto/Nancy-portfolio/blob/main/foto.jpg)
 
 __CONTACT__
 +1 212 06 06 060
