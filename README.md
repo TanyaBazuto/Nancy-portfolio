@@ -53,4 +53,4 @@ High school summer job | Junior year
 
 ________________________________________________________
 ### INTERESTS
-![interests.png](https://postimg.cc/qNHmc5Mg)
+![interests.png](interests.png)
