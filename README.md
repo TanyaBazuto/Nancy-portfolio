@@ -1,5 +1,5 @@
 # NANCY INTERSHIP
-[foto.jpg]([https://postimg.cc/3dTpt5mM](https://github.com/TanyaBazuto/Nancy-portfolio/blob/main/foto.jpg)
+![foto.jpg]([https://postimg.cc/3dTpt5mM](https://github.com/TanyaBazuto/Nancy-portfolio/blob/main/foto.jpg)
 
 __CONTACT__
 +1 212 06 06 060
@@ -53,4 +53,4 @@ High school summer job | Junior year
 
 ________________________________________________________
 ### INTERESTS
-[interests.png](https://postimg.cc/qNHmc5Mg)
+![interests.png](https://postimg.cc/qNHmc5Mg)
