@@ -1,5 +1,5 @@
 # NANCY INTERSHIP
-!foto.jpg
+![foto](foto.jpg)
 
 __CONTACT__
 +1 212 06 06 060
@@ -53,4 +53,4 @@ High school summer job | Junior year
 
 ________________________________________________________
 ### INTERESTS
-!interests.png
+!(interests.png)
